@@ -1,4 +1,4 @@
-
+![MasterHead](https://github.com/Gurupriyaa-K/Gurupriyaa-K/blob/main/Gray%20Elegant%20Assistant%20Manager%20LinkedIn%20Banner.gif)
 
 
 <h1 align="center">Hi there, I'm Gurupriyaa K 👋</h1>
