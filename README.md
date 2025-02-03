@@ -35,5 +35,5 @@ I am passionate about building efficient, scalable, and user-friendly applicatio
 ### 🌟 Connect with Me  
 
 📫 Gmail: [guru2005k@gmail.com](mailto:guru2005@gmail.com)  
-🔗 LinkedIn: [Tharun Kumar S](https://www.linkedin.com/in/gurupriyaa-k-69a67325b/)  
+🔗 LinkedIn: [Gurupriyaa K](https://www.linkedin.com/in/gurupriyaa-k-69a67325b/)  
 📂 [Visit My GitHub](https://github.com/Gurupriyaa-K)
