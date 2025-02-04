@@ -11,6 +11,9 @@ I am passionate about building efficient, scalable, and user-friendly applicatio
 
 ---
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gurupriyaa-K&label=Profile%20views&color=0e75b6&style=flat" alt="Gurupriyaa-K" /> </p>
+
+
 ### 🚀 Tech Stack  
 
 #### Languages & Frameworks:  
@@ -29,6 +32,14 @@ I am passionate about building efficient, scalable, and user-friendly applicatio
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 </div>
+
+---
+
+### 📊 GitHub Stats  
+
+![Gurupriyaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gurupriyaa-K&show_icons=true&theme=radical&hide=issues&count_private=true)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurupriyaa-K&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gurupriyaa-K&theme=radical) 
 
 ---
 
